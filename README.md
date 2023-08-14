@@ -1,6 +1,6 @@
 # HashGraph
 ![HashGraph](https://user-images.githubusercontent.com/45948978/229579965-8eccc962-180d-49bf-bdc6-fd5e5e7d79d9.jpg)
-
+progetto sviluppato per l'esame di algoritmi e strutture dati. Università degli studi di Napoli Parthenope
 1) HashGraph
 Si vuole realizzare la struttura dati HashGraph che consenta di memorizzare un grafo
 orientato in una hash table. Ogni nodo del grafo viene memorizzato in una cella della
